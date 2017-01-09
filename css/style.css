@@ -1,0 +1,460 @@
+* { 
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+}
+
+p{
+        width: 100%;
+        max-width: 700px;
+        min-width: 320px;
+        margin-bottom: 2.5em;
+        font-family:'Patrick Hand', cursive;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 1.1em;
+        line-height: 1.8em;}
+
+
+#index-body { background: #309293;
+    color: #ddd;}
+
+#contents-body {background: #309293;}
+ 
+
+.headbg {
+width:80em;
+height: 45em;
+margin-top: 1em;
+position: fixed;}
+}
+
+/*--------------- index page ---------------*/
+
+
+
+.fun-button {
+  width: 300px;
+  margin: auto;
+}
+.button-wrapper {
+  margin: 20px 0;
+  position: relative;
+  display: inline-block;
+}
+
+.button {
+  border: 0;
+  outline: 0;
+  background-color: #CC3333;
+  color: #fff;
+  height: 50px;
+  width: 150px;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 0 15px 0 #663333, 0 10px 30px #808080;
+  transition: 200ms;
+  font-family: 'Amatica sc', cursive;
+  font-size: 35px;
+    margin-top: 17.2em;
+    margin-left: 16em
+}
+.button:active {
+  transform: translateY(10px);
+  -webkit-transform: translateY(10px);
+  -moz-transform: translateY(10px);
+  box-shadow: 0 5px 0 #663333, 0 5px 5px #000;
+}
+
+
+h1 {color:white;
+font-size: 4em;
+font-family: 'Amatica SC', cursive;
+margin-top: -10em;
+text-align: center;}
+
+
+/*--------------- Contents Page ---------------*/
+
+.content-h2 {
+    font-size: 1.6em;
+    margin-top: 2em;
+    color:white;
+    position: absolute;
+    margin-left: 14.5em;
+    font-family: 'patrick hand',cursive;
+    text-transform:uppercase;}
+
+.arrow {
+    width:60px;
+    margin-top: 6em;
+    position: absolute;
+    margin-left: 28em;}
+
+.content-button {
+	background-color: #CC3333;
+	border-bottom: 6px solid #663333;
+	text-shadow: 0px -2px grey;
+    font-family:'Amatica SC', cursive;}
+
+.action-button:active {
+	transform: translate(0px,5px);
+  -webkit-transform: translate(0px,5px);
+	border-bottom: 1px solid grey;}
+
+.lab {height:60em;
+width:80em;
+margin-top: -2em;
+position: fixed;}
+
+.speech {width:20em;
+margin-top: 3em;
+margin-left: 50em;
+position: absolute;}
+
+.professor {width:20em;
+   position: absolute;
+    left: 56em;
+    top: 16.5em;}
+
+
+.helium {width:9em;
+   position: absolute;
+    left: 14em;
+    top: 12em;}
+
+.iron {width:9em;
+   position: absolute;
+    left: 25em;
+    top: 12em;}
+
+
+.potassium {
+    width:9em;
+   position: absolute;
+    left: 36em;
+    top: 12em;}
+
+.oxygen {
+    width:9em;
+   position: absolute;
+    left: 19em;
+    top: 25em;}
+
+.tin {width:9em;
+   position: absolute;
+    left: 30em;
+    top:25em;}
+
+
+
+
+.hover-effect-grow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hover-effect-grow:hover,
+.hover-effect-grow:focus,
+.hover-effect-grow:active {
+  -webkit-transform: scale(1.0);
+  transform: scale(1.02);
+}
+
+
+
+/*--------------- Helium page ---------------*/
+
+
+.helium-split {
+  display: flex;
+  flex-flow: row nowrap;
+  min-height: 100vh;
+}
+
+.helium-right {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1vw 0;
+}
+
+.helium-left{
+  background: #fff;
+  color: #7c2ad3;
+  padding: 0 3vw 0;
+}
+
+.helium-right{
+  background: #7c2ad3;
+  color: #fff;}
+
+h2 {
+font-size: 9em;
+margin-top: 1.3em;
+margin-right: 1em;
+color:#7c2ad3;
+font-family: 'Amatica SC', cursive;
+text-align: center; }
+
+h3 {font-size: 4em;
+font-family: 'Amatica SC', cursive;
+margin-bottom: 7em;}
+
+#paragraph1 {margin-top: -25em;}
+
+.purple {
+	background-color: #7c2ad3;
+	border-bottom: 5px solid #581ba8;
+	text-shadow: 0px -2px #581ba8;
+    font-family:'Amatica SC', cursive; 
+}}
+
+.action-button:active {
+	transform: translate(0px,5px);
+  -webkit-transform: translate(0px,5px);
+	border-bottom: 1px solid;
+}
+
+.balloons {width:6em;
+margin-right: 20em;}
+
+.sun {width:10em;
+margin-top: -11em;}
+
+.rocket {width:9em;
+margin-left: 22em;
+margin-top: -9em}
+
+.rocketfuel {margin-left: 23em;}
+
+.sun-p {margin-top: 3em;
+margin-bottom: -1.7em;}
+
+.balloon-p {margin-top: -4.3em;
+margin-right: 20em;}
+
+/*--------------- Iron Page ---------------*/
+
+
+.iron-split {
+  display: flex;
+  flex-flow: row nowrap;
+  min-height: 100vh;
+}
+
+.iron-right {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 2vw 0;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.iron-left{
+  background: #fff;
+  color:#dd242d;
+  padding: 0 3vw 0;
+}
+
+.iron-right{
+  background: #dd242d;
+  color: #fff;}
+
+#paragraph1 {margin-top: -25em;}
+
+.red
+{
+	background-color: #CC3333;
+	border-bottom: 5px solid #663333;
+	text-shadow: 0px -2px #BD3E31;
+    font-family:'Amatica SC', cursive; 
+}
+
+.magnet {width:8em;
+margin-left: 22em;
+margin-top: 2em;}
+
+.earth {width:20em;
+margin-right:10em;
+margin-top: -11.3em;}
+
+.sword {width:7em;
+margin-right: 20em;
+margin-top: -10em}
+
+/*--------------- Potassium Page ---------------*/
+
+
+.potassium-split {
+  display: flex;
+  flex-flow: row nowrap;
+  min-height: 100vh;
+}
+
+.potassium-right {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 3vw 0;
+}
+
+.potassium-left{
+  background: #fff;
+  color:#dd242d;
+  padding: 0 3vw 0;
+}
+
+.potassium-right{
+  background: #EDCC40;
+  color: #fff;}
+
+
+#paragraph1 {margin-top: -25em;}
+
+
+.yellow{
+	background-color: #EDCC40;
+	border-bottom: 5px solid #D1B358;
+	text-shadow: 0px -2px #D1B358;
+}
+
+.fireworks {width:10em;
+margin-right: 20em;}
+
+.banana {width:10em;
+margin-top: -10em;
+margin-left: 3em;}
+
+.nuclear {width:10em;
+margin-top: -12em;
+margin-left: 27em}
+
+/*--------------- Oxygen Page ---------------*/
+
+
+.oxygen-split {
+  display: flex;
+  flex-flow: row nowrap;
+  min-height: 100vh;
+}
+
+.oxygen-right {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 3vw 0;
+  
+}
+
+.oxygen-left{
+  background: #fff;
+  color:#2090ce;
+  padding: 0 3vw 0;
+}
+
+.oxygen-right{
+  background: #2090ce;
+  color: #fff;}
+
+#paragraph1 {margin-top: -25em;}
+
+
+.animate{
+	transition: all 0.1s;
+	-webkit-transition: all 0.1s;}
+
+.action-button
+{
+	position: relative;
+	padding: 10px 40px;
+    margin: 30px 10px 10px 20px;
+    float: left;
+	border-radius: 10px;
+	font-family:'Amatica SC', cursive; 
+	font-size: 25px;
+	color: #FFF;
+	text-decoration: none;}
+
+.blue
+{
+	background-color: #2090ce;
+	border-bottom: 5px solid #2980B9;
+	text-shadow: 0px -2px #2980B9;
+}
+
+
+.tap {width:9em;
+margin-top: 1em;
+margin-left: 27em;}
+
+.tank {width:9em;
+margin-top: -10em;
+margin-left: 4em;}
+
+.lungs {width:10em;
+margin-top: -9em;
+margin-right: 24em;}
+
+/*--------------- Tin Page ---------------*/
+
+
+.tin-split {
+  display: flex;
+  flex-flow: row nowrap;
+  min-height: 100vh;
+}
+
+.tin-right {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 3vw 0vw;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.tin-left{
+  background: #fff;
+  color:#11cc46;
+  padding: 0 1vw 0;
+}
+
+.tin-right{
+  background: #11cc46;
+  color: #fff;}
+
+
+#paragraph1 {margin-top: -25em;}
+
+.green
+{
+	background-color: #11cc46;
+	border-bottom: 5px solid #669644;
+	text-shadow: 0px -2px #669644;
+}
+
+.can {width:7em;
+margin-top: 1em;
+margin-right: 24em;}
+
+.fork {width:12em;
+margin-top: -10em;
+margin-left: 3em;}
+
+.plane {width:12em;
+margin-top: -10em;
+margin-left: 28em;}

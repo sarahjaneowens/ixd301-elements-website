@@ -1,0 +1,37 @@
+.iron-split{
+  display: flex;
+  flex-flow: row nowrap;
+  min-height: 100vh;
+}
+
+.iron-right{
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0 11vw 0;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+
+.iron-left{
+  background: #fff;
+  color: #7c2ad3;  
+}
+
+.iron-right{
+  background: #7c2ad3;
+  color: #fff;}
+
+h2 {
+font-size: 9em;
+color:#7c2ad3;
+font-family: 'Amatica SC', cursive;
+text-align: center; }
+
+h3 {font-size: 4em;
+font-family: 'Amatica SC', cursive;
+margin-bottom: 7em;}
+
+
+#paragraph1 {margin-top: -25em;}
