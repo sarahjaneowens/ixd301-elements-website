@@ -2,4 +2,4 @@
 
 <h2>Elements Website</h2>
 
-[Finished Site](http://sarahjaneowens.github.io/ixd302-takahe-bird-project/index.html) 
+[Finished Site](http://sarahjaneowens.github.io/ixd301-elements-website/index.html) 
